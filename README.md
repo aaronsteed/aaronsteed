@@ -11,14 +11,14 @@
 #### Web Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,angular,css,html,bootstrap,js,npm,nuxtjs,tailwind,ts,vite,vue,vuetify,vercel,yarn&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,css,html,bootstrap,js,npm,nuxtjs,tailwind,ts,vite,vue,vuetify,vercel,yarn&theme=dark" />
   </a>
 </p>
 
 #### Backend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,clojure,docker,elasticsearch,flask,go,gradle,java,kafka,kotlin,maven,mongodb,postgres,prometheus,grafana,py,redis,spring,sqlite&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=aws,clojure,docker,elasticsearch,flask,go,gradle,java,kafka,kotlin,maven,mongodb,postgres,prometheus,grafana,py,redis,spring,sqlite&theme=dark" />
   </a>
 </p>
 
