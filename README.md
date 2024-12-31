@@ -38,3 +38,7 @@ From County Wicklow, known to many as the garden of Ireland 🇮🇪</p>
     <img src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,postman&theme=dark" />
   </a>
 </p>
+
+
+#### Image Credit
+- [Banner](https://www.wallpaperflare.com/studio-ghibli-forest-clearing-landscape-oak-nature-wallpaper-ytwiq)
