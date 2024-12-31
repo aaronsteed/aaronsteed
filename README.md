@@ -3,11 +3,15 @@
 
 <img width='850' height=150 src="./images/ghibli-inspired-forest.png" width="50">
 
-<img align='right' src="./images/grand-canyon.png" width="230">
+<img align='right' src="./images/grand-canyon.png" width="230" alt="Picture of me hiking in the Grand Canyon, Arizona"></img>
 Senior Software Engineer @ Riot Games.
 
 From County Wicklow, known to many as the garden of Ireland 🇮🇪</p>
-<p>Visit <a href="https://aaronsteed.io">aaronsteed.io</a> for my <a href="https://aaronsteed.io/documents/2025x-CV.pdf"">resume</a> and more info on my work. Also check it out for my portfolii</p>
+<p>Visit <a href="https://aaronsteed.io">aaronsteed.io</a> for my <a href="https://aaronsteed.io/documents/2025x-CV.pdf"">resume</a> and more info on my work.</p>
+
+I love playing all types of games (video games and board games, especially card games and CCGs), bake bread, running and hiking
+
+<br />
 
 ### Socials
 [![Twitter: aaron_steed](https://img.shields.io/twitter/follow/aaron_steed?style=social)](https://x.com/aaron_steed)
@@ -26,7 +30,7 @@ From County Wicklow, known to many as the garden of Ireland 🇮🇪</p>
 #### Backend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,clojure,docker,elasticsearch,flask,go,gradle,java,kafka,kotlin,maven,mongodb,postgres,prometheus,grafana,py,redis,spring,sqlite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,clojure,docker,elasticsearch,flask,go,gradle,java,kafka,kotlin,maven,mongodb,postgres,prometheus,grafana,py,kubernetes,redis,spring,sqlite&theme=dark" />
   </a>
 </p>
 
