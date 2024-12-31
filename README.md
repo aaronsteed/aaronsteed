@@ -8,7 +8,8 @@
 [[](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medim/filled/twitter-x.svg)](https://x.com/aaron_steed)
 [[](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medim/filled/linkedin.svg)](https://www.linkedin.com/in/aaron-steed/)
 
-### Technologies I Use regularly (but never all at once)
+### Technologies, languages and frameworks
+> All the below I've either still use currently or have worked with and used in a significant capacity
 #### Web Development
 <p align="center">
   <a href="https://skillicons.dev">
