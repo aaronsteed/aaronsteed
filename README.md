@@ -1,7 +1,7 @@
 <h2>Hi! 👋 I'm Aaron Steed</h2>
 
 
-<img width='650' height=150 src="./images/ghibli-inspired-forest.png" width="50">
+<img width='850' height=150 src="./images/ghibli-inspired-forest.png" width="50">
 <br />
 <br />
 
