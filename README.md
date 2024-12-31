@@ -7,7 +7,7 @@
 Senior Software Engineer @ Riot Games.
 
 From County Wicklow, known to many as the garden of Ireland 🇮🇪</p>
-<p>Visit <a href="https://aaronsteed.io">aaronsteed.io</a> for my <a href="https://aaronsteed.io/documents/2025x-CV.pdf"">resume</a> and more info on my work. Also check it out for my portfolii</p>
+<p>Visit <a href="https://aaronsteed.io">aaronsteed.io</a> for my <a href="https://aaronsteed.io/documents/2025x-CV.pdf"">resume</a> and more info on my work.</p>
 
 ### Socials
 [![Twitter: aaron_steed](https://img.shields.io/twitter/follow/aaron_steed?style=social)](https://x.com/aaron_steed)
