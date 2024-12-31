@@ -2,8 +2,6 @@
 
 
 <img width='850' height=150 src="./images/ghibli-inspired-forest.png" width="50">
-<br />
-<br />
 
 <img align='right' src="./images/grand-canyon.png" width="230">
 Senior Software Engineer @ Riot Games.
