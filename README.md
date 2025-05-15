@@ -7,7 +7,7 @@
 Senior Software Engineer @ Riot Games.
 
 From County Wicklow, known to many as the garden of Ireland 🇮🇪</p>
-<p>Visit <a href="https://aaronsteed.io">aaronsteed.io</a> for my <a href="https://aaronsteed.io/documents/2025x-CV.pdf"">resume</a> and more info on my work.</p>
+<p>Visit <a href="https://aaronsteed.dev">aaronsteed.dev</a> for my <a href="https://aaronsteed.dev/documents/2025x-CV.pdf"">resume</a> and more info on my work.</p>
 
 I love playing all types of games (video games and board games, especially card games and CCGs), baking sourdough bread, running and hiking
 
